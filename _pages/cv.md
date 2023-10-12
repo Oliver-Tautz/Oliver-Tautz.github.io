@@ -32,34 +32,17 @@ Work experience
     * Solve and present practice tasks to students
 * 08/2021-10/2021 Research Assistent at Bielefeld University, AG Technische Informatik
     * developing assistant tool for marking exercises
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python, C, Java, C#, bash, assembly, php, SQL, SPARQL
+* ML Frameworks: PyTorch, TensorFlow, scikit-learn
+* ML Libraries: numpy, pandas
+* Other Frameworks and Tools: Openstack Cloud, Ansible, Git
+
