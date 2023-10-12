@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Oliver Tautz. I like everything AI, but especcially *natural language processing*.
+Hi! I'm a research assistant at Bielefeld University. I
