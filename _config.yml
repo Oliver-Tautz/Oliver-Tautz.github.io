@@ -85,9 +85,9 @@ author:
   bio              : "I like everything AI, especcially <i>transformers</i> and <i>natural language processing</i>."
   location         : 
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xCGNb90AAAAJ"
-  email            :
+  email            : "oliver.tautz@uni-bielefeld.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
