@@ -1,3 +1,8 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
 2022-Jun-10	"
-Transfer Learning with Jukebox for Music Source Separation"	Part of the IFIP Advances in Information and Communication Technology book series (IFIPAICT,volume 647)	The pre-trained Juke-Box model was fine-tuned for audio source seperation.	Zai El Amri, W., Tautz, O., Ritter, H., Melnik, A. (2022). Transfer Learning with Jukebox for Music Source Separation. In: Maglogiannis, I., Iliadis, L., Macintyre, J., Cortez, P. (eds) Artificial Intelligence Applications and Innovations. AIAI 2022. IFIP Advances in Information and Communication Technology, vol 647. Springer, Cham. Https://doi.org/10.1007/978-3-031-08337-2_35	unmix	https://arxiv.org/pdf/2111.14200.pdf
+Transfer Learning with Jukebox for Music Source Separation"	"Artificial Intelligence Applica-
+tions and Innovations"		"Wadhah Zai El Amri, Oliver Tautz, Helge Ritter, and Andrew
+Melnik. Transfer Learning with Jukebox for Music Source Sep-
+aration. In Artificial Intelligence Applica-
+tions and Innovations, pages 426–433, Cham, 2022. Springer
+International Publishing"	unmix	https://arxiv.org/pdf/2111.14200.pdf
