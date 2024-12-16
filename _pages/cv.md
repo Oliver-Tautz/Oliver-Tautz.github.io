@@ -17,7 +17,11 @@ Education
 Work experience
 ======
 
-
+* Since 02/2024 Doktorand at Lehrstuhl für Software Engineering RWTH Aachen
+  * Development of innovative LLM-based solutions for generating web applications
+  * Integration of chat components into Angular and Spring frameworks, along with comprehensive system administration for servers and web applications
+  * Supervision of students during their thesis projects
+  * Modeling of industrial plants using SysML to support efficient system design
 * 03/2022-06/2023 Research Assistent at Bielefeld university, Semantic Computing Group
     * developing the semantic media wiki extension [OttrParser](https://www.mediawiki.org/wiki/Extension:OttrParser)
     * administrating the DiProMag semantic media wiki
