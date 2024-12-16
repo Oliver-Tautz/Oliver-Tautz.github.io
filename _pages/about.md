@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a research assistant at Bielefeld University. 
+Hi! I'm a PhD Student at RWTH Aachen. 
 
-My interests include many **AI** topics such as *natural language processing*, *generative AI*, *computer vision*, and *audio signal processing*.
+My interests include many **AI** topics such as *natural language processing*, *generative AI* and *computer vision*.
 
 Additionally, I am a huge **linux** nerd and like to try out new niche software. Feel free to contact me for any reason :)
